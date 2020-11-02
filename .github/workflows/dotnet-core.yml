@@ -10,7 +10,7 @@ on:
       - published
 env:
    # Project name to pack and publish
-  PROJECT_NAME: Conundrum.Stats
+  PROJECT_NAME: Conundrum.Statistics
 
 jobs:
   build:
